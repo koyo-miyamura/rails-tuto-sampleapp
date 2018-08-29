@@ -1,2 +1,5 @@
 # Ignore Spring files.
 /spring/*.pid
+## Environment normalization:
+/.bundle
+/vendor/bundle
